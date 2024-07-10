@@ -17,7 +17,7 @@ The `psadd` installation requires the following depencies:
 Paste the following lines to install `psadd` from github.
 
 ```r
-remotes::install_github("cpauvert/psadd")
+remotes::install_github("JamesYang1209/psadd")
 ```
 
 
