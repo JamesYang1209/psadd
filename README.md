@@ -1,3 +1,4 @@
+Modified the output.
 # phyloseq additions
 
 This package contains customs functions and additions to the [phyloseq](https://github.com/joey711/phyloseq) package.
